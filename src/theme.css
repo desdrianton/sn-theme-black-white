@@ -61,4 +61,6 @@
     --sn-desktop-titlebar-ui-hover-color: var(--highlight-color);
     --sn-stylekit-scrollbar-track-border-color: var(--comment);
     --sn-stylekit-scrollbar-thumb-color: var(--sn-stylekit-info-color);
+
+    --sn-stylekit-base-font-size: 12px;
 }
